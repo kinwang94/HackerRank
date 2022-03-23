@@ -39,9 +39,23 @@ Solutions to HackerRank problems
 |Introduction|Easy|[Loops](https://www.hackerrank.com/challenges/python-loops/problem)|[python_loops.py](python/python_loops.py)|
 |Introduction|Easy|[Print Function](https://www.hackerrank.com/challenges/python-print/problem)|[python_print.py](python/python_print.py)|
 |Introduction|Medium|[Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)|[write_a_function.py](python/write_a_function.py)|
-|Basic Data Types|Easy|[List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)| |
-|Basic Data Types|Easy|[Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)| |
-|Basic Data Types|Easy|[Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)| |
-|Basic Data Types|Easy|[Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)| |
-|Basic Data Types|Easy|[Lists](https://www.hackerrank.com/challenges/python-lists/problem)| |
-|Basic Data Types|Easy|[Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)| |
+|Basic Data Types|Easy|[List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)|[list_comprehensions.py](python/list_comprehensions.py)|
+|Basic Data Types|Easy|[Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)|[find_second_maximum_number_in_a_list.py](python/find_second_maximum_number_in_a_list.py)|
+|Basic Data Types|Easy|[Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)|[nested_list.py](python/nested_list.py)|
+|Basic Data Types|Easy|[Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)|[finding_the_percentage.py](python/finding_the_percentage.py)|
+|Basic Data Types|Easy|[Lists](https://www.hackerrank.com/challenges/python-lists/problem)|[python_lists.py](python/python_lists.py)|
+|Basic Data Types|Easy|[Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)|[python_tuples.py](python/python_tuples.py)|
+|Strings|Easy|[sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)| |
+|Strings|Easy|[String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)| |
+|Strings|Easy|[What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)| |
+|Strings|Easy|[Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)| |
+|Strings|Easy|[Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)| |
+|Strings|Easy|[String Validators](https://www.hackerrank.com/challenges/string-validators/problem)| |
+|Strings|Easy|[Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)| |
+|Strings|Easy|[Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)| |
+|Strings|Easy|[Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)| |
+|Strings|Easy|[String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)| |
+|Strings|Easy|[Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)| |
+|Strings|Easy|[Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem)| |
+|Strings|Medium|[The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem)| |
+|Strings|Medium|[Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem)| |
