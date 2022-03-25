@@ -45,17 +45,30 @@ Solutions to HackerRank problems
 |Basic Data Types|Easy|[Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)|[finding_the_percentage.py](python/finding_the_percentage.py)|
 |Basic Data Types|Easy|[Lists](https://www.hackerrank.com/challenges/python-lists/problem)|[python_lists.py](python/python_lists.py)|
 |Basic Data Types|Easy|[Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)|[python_tuples.py](python/python_tuples.py)|
-|Strings|Easy|[sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)| |
-|Strings|Easy|[String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)| |
-|Strings|Easy|[What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)| |
-|Strings|Easy|[Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)| |
-|Strings|Easy|[Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)| |
-|Strings|Easy|[String Validators](https://www.hackerrank.com/challenges/string-validators/problem)| |
-|Strings|Easy|[Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)| |
-|Strings|Easy|[Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)| |
-|Strings|Easy|[Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)| |
-|Strings|Easy|[String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)| |
-|Strings|Easy|[Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)| |
-|Strings|Easy|[Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem)| |
-|Strings|Medium|[The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem)| |
-|Strings|Medium|[Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem)| |
+|Strings|Easy|[sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)|[swap_case.py](python/swap_case.py)|
+|Strings|Easy|[String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)|[python_string_split_and_join.py](python/python_string_split_and_join.py)|
+|Strings|Easy|[What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)|[whats_your_name.py](python/whats_your_name.py)|
+|Strings|Easy|[Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)|[python_mutations.py](python/python_mutations.py)|
+|Strings|Easy|[Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)|[find_a_string.py](python/find_a_string.py)|
+|Strings|Easy|[String Validators](https://www.hackerrank.com/challenges/string-validators/problem)|[string_validators.py](python/string_validators.py)|
+|Strings|Easy|[Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)|[text_alignment.py](python/text_alignment.py)|
+|Strings|Easy|[Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)|[text_wrap.py](python/text_wrap.py)|
+|Strings|Easy|[Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)|[designer_door_mat.py](python/designer_door_mat.py)|
+|Strings|Easy|[String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)|[python_string_formatting.py](python/python_string_formatting.py)|
+|Strings|Easy|[Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)|[alphabet_rangoli.py](python/alphabet_rangoli.py)|
+|Strings|Easy|[Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem)|[capitalize.py](python/capitalize.py)|
+|Strings|Medium|[The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem)|[the_minion_game.py](python/the_minion_game.py)|
+|Strings|Medium|[Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem)|[merge_the_tools.py](python/merge_the_tools.py)|
+|Sets|Easy|[Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)| |
+|Sets|Easy|[Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)| |
+|Sets|Easy|[Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem)| |
+|Sets|Easy|[Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)| |
+|Sets|Easy|[Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem)| |
+|Sets|Easy|[Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)| |
+|Sets|Easy|[Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)| |
+|Sets|Easy|[Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)| |
+|Sets|Easy|[Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem)| |
+|Sets|Easy|[The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)| |
+|Sets|Easy|[Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)| |
+|Sets|Easy|[Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)| |
+|Sets|Medium|[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)| |
