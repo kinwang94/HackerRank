@@ -72,10 +72,17 @@ Solutions to HackerRank problems
 |Sets|Easy|[Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)|[py_check_subset.py](python/py_check_subset.py)|
 |Sets|Easy|[Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)|[py_check_strict_superset.py](python/py_check_strict_superset.py)|
 |Sets|Medium|[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)|[no_idea.py](python/no_idea.py)|
-|Math|Easy|[Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem)|[]()|
-|Math|Easy|[Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem)|[]()|
-|Math|Easy|[Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem)|[]()|
-|Math|Easy|[Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)|[]()|
-|Math|Medium|[Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem)|[]()|
-|Math|Medium|[Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem)|[]()|
-|Math|Medium|[Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem)|[]()|
+|Math|Easy|[Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem)|[polar_coordinates.py](python/polar_coordinates.py)|
+|Math|Easy|[Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem)|[python_mod_divmod.py](python/python_mod_divmod.py)|
+|Math|Easy|[Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem)|[python_power_mod_power.py](python/python_power_mod_power.py)|
+|Math|Easy|[Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)|[python_integers_come_in_all_sizes.py](python/python_integers_come_in_all_sizes.py)|
+|Math|Medium|[Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem)|[find_angle.py](python/find_angle.py)|
+|Math|Medium|[Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem)|[triangle_quest_2.py](python/triangle_quest_2.py)|
+|Math|Medium|[Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem)|[python_quest_1.py](python/python_quest_1.py)|
+|Itertools|Easy|[itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem)|[]()|
+|Itertools|Easy|[itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem)|[]()|
+|Itertools|Easy|[itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem)|[]()|
+|Itertools|Easy|[itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem)|[]()|
+|Itertools|Medium|[Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem)|[]()|
+|Itertools|Medium|[Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)|[]()|
+|Itertools|Hard|[Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem)|[]()|
