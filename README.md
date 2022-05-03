@@ -59,16 +59,23 @@ Solutions to HackerRank problems
 |Strings|Easy|[Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem)|[capitalize.py](python/capitalize.py)|
 |Strings|Medium|[The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem)|[the_minion_game.py](python/the_minion_game.py)|
 |Strings|Medium|[Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem)|[merge_the_tools.py](python/merge_the_tools.py)|
-|Sets|Easy|[Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)| |
-|Sets|Easy|[Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)| |
-|Sets|Easy|[Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem)| |
-|Sets|Easy|[Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)| |
-|Sets|Easy|[Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem)| |
-|Sets|Easy|[Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)| |
-|Sets|Easy|[Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)| |
-|Sets|Easy|[Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)| |
-|Sets|Easy|[Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem)| |
-|Sets|Easy|[The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)| |
-|Sets|Easy|[Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)| |
-|Sets|Easy|[Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)| |
-|Sets|Medium|[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)| |
+|Sets|Easy|[Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)|[py_introduction_to_sets.py](python/py_introduction_to_sets.py)|
+|Sets|Easy|[Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)|[symmetric_difference.py](python/symmetric_difference.py)|
+|Sets|Easy|[Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem)|[py_set_add.py](python/py_set_add.py)|
+|Sets|Easy|[Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)|[py_set_discard_remove_pop.py](python/py_set_discard_remove_pop.py)|
+|Sets|Easy|[Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem)|[py_set_union.py](python/py_set_union.py)|
+|Sets|Easy|[Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)|[py_set_intersection_operation.py](python/py_set_intersection_operation.py)|
+|Sets|Easy|[Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)|[py_set_difference_operation.py](python/py_set_difference_operation.py)|
+|Sets|Easy|[Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)|[py_set_symmetric_difference_operation.py](python/py_set_symmetric_difference_operation.py)|
+|Sets|Easy|[Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem)|[py_set_mutations.py](python/py_set_mutations.py)|
+|Sets|Easy|[The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)|[py_the_captains_room.py](python/py_the_captains_room.py)|
+|Sets|Easy|[Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)|[py_check_subset.py](python/py_check_subset.py)|
+|Sets|Easy|[Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)|[py_check_strict_superset.py](python/py_check_strict_superset.py)|
+|Sets|Medium|[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)|[no_idea.py](python/no_idea.py)|
+|Math|Easy|[Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem)|[]()|
+|Math|Easy|[Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem)|[]()|
+|Math|Easy|[Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem)|[]()|
+|Math|Easy|[Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)|[]()|
+|Math|Medium|[Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem)|[]()|
+|Math|Medium|[Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem)|[]()|
+|Math|Medium|[Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem)|[]()|
