@@ -79,10 +79,18 @@ Solutions to HackerRank problems
 |Math|Medium|[Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem)|[find_angle.py](python/find_angle.py)|
 |Math|Medium|[Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem)|[triangle_quest_2.py](python/triangle_quest_2.py)|
 |Math|Medium|[Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem)|[python_quest_1.py](python/python_quest_1.py)|
-|Itertools|Easy|[itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem)|[]()|
-|Itertools|Easy|[itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem)|[]()|
-|Itertools|Easy|[itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem)|[]()|
-|Itertools|Easy|[itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem)|[]()|
-|Itertools|Medium|[Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem)|[]()|
-|Itertools|Medium|[Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)|[]()|
-|Itertools|Hard|[Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem)|[]()|
+|Itertools|Easy|[itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem)|[itertools_product.py](python/itertools_product.py)|
+|Itertools|Easy|[itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem)|[itertools_permutations.py](python/itertools_permutations.py)|
+|Itertools|Easy|[itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem)|[itertools_combinations.py](python/itertools_combinations.py)|
+|Itertools|Easy|[itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem)|[itertools_combinations_with_replacement.py](python/itertools_combinations_with_replacement.py)|
+|Itertools|Medium|[Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem)|[compress_the_string.py](python/compress_the_string.py)|
+|Itertools|Medium|[Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)|[iterables_and_iterators.py](python/iterables_and_iterators.py)|
+|Itertools|Hard|[Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem)|[maximize_it.py](python/maximize_it.py)|
+|Collections|Easy|[collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem)|[]()|
+|Collections|Easy|[DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)|[]()|
+|Collections|Easy|[Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem)|[]()|
+|Collections|Easy|[Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)|[]()|
+|Collections|Easy|[Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem)|[]()|
+|Collections|Medium|[Word Order](https://www.hackerrank.com/challenges/word-order/problem)|[]()|
+|Collections|Medium|[Company Logo](https://www.hackerrank.com/challenges/most-commons/problem)|[]()|
+|Collections|Medium|[Piling Up!](https://www.hackerrank.com/challenges/piling-up/problem)|[]()|
