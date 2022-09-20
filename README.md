@@ -86,11 +86,13 @@ Solutions to HackerRank problems
 |Itertools|Medium|[Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem)|[compress_the_string.py](python/compress_the_string.py)|
 |Itertools|Medium|[Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)|[iterables_and_iterators.py](python/iterables_and_iterators.py)|
 |Itertools|Hard|[Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem)|[maximize_it.py](python/maximize_it.py)|
-|Collections|Easy|[collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem)|[]()|
-|Collections|Easy|[DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)|[]()|
-|Collections|Easy|[Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem)|[]()|
-|Collections|Easy|[Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)|[]()|
-|Collections|Easy|[Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem)|[]()|
-|Collections|Medium|[Word Order](https://www.hackerrank.com/challenges/word-order/problem)|[]()|
-|Collections|Medium|[Company Logo](https://www.hackerrank.com/challenges/most-commons/problem)|[]()|
-|Collections|Medium|[Piling Up!](https://www.hackerrank.com/challenges/piling-up/problem)|[]()|
+|Collections|Easy|[collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem)|[collections_counter.py](python/collections_counter.py)|
+|Collections|Easy|[DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)|[defaultdict_tutorial.py](python/defaultdict_tutorial.py)|
+|Collections|Easy|[Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem)|[py_collections_namedtuple.py](python/py_collections_namedtuple.py)|
+|Collections|Easy|[Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)|[py_collections_ordereddict.py](python/py_collections_ordereddict.py)|
+|Collections|Easy|[Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem)|[py_collections_deque.py](python/py_collections_deque.py)|
+|Collections|Medium|[Word Order](https://www.hackerrank.com/challenges/word-order/problem)|[word_order.py](python/word_order.py)|
+|Collections|Medium|[Company Logo](https://www.hackerrank.com/challenges/most-commons/problem)|[most_commons.py](python/most_commons.py)|
+|Collections|Medium|[Piling Up!](https://www.hackerrank.com/challenges/piling-up/problem)|[piling_up.py](python/piling_up.py)|
+|Date and Time|Easy|[Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem)|[]()|
+|Date and Time|Medium|[Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem)|[]()|
